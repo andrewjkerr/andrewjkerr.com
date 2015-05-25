@@ -35,7 +35,7 @@ This summer (2015), I will be the __Security Engineering Intern at [Yahoo](https
 
 ### BlockScore
 
-In the spring of 2015, I was the __intern at [BlockScore](https://blockscore.com)__. BlockScore is a [Y-Combinator alum](http://en.wikipedia.org/wiki/Y_Combinator_%28company%29) (S14) located in Mountain View, CA and is a startup focused around indentity verification. Even though I was an intern, I took on the role of a fulltime software engineer working on several projects utilizing several different skillsets. I gained a lot of experience with __Ruby__, __Ruby on Rails__, __PHP__, __Redis__, __Amazon Web Services__, __Docker__, and more. A full list of accomplishments is below:
+In the spring of 2015, I was the __intern at [BlockScore](https://blockscore.com)__, and will be returning in mid-June. BlockScore is a [Y-Combinator alum](http://en.wikipedia.org/wiki/Y_Combinator_%28company%29) (S14) located in Mountain View, CA and is a startup focused around indentity verification. Even though I was an intern, I took on the role of a fulltime software engineer working on several projects utilizing several different skillsets. I gained a lot of experience with __Ruby__, __Ruby on Rails__, __PHP__, __Redis__, __Amazon Web Services__, __Docker__, and more. A full list of accomplishments is below:
 
 - Started the process in migrating infrastructure from Heroku to Amazon Web Services using Docker and Elastic Beanstalk.
 - Assisted with the development and deployment of the latest release of [BlockScore's watchlist compliance product](https://blockscore.com/features/watchlist).
