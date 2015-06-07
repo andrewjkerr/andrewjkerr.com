@@ -33,6 +33,7 @@ I'm also very excited to take __Enterprise Defense__ with [Nolen Scaife](http://
 
 This summer (2015), I will be the __Security Engineering Intern at [Tumblr](https://tumblr.com)__.
 
+<div id='blockscore'></div>
 ### BlockScore
 
 In the spring of 2015, I was the __intern at [BlockScore](https://blockscore.com)__. BlockScore is a [Y-Combinator alum](http://en.wikipedia.org/wiki/Y_Combinator_%28company%29) (S14) located in Mountain View, CA and is a startup focused around indentity verification. Even though I was an intern, I took on the role of a fulltime software engineer working on several projects utilizing several different skillsets. I gained a lot of experience with __Ruby__, __Ruby on Rails__, __PHP__, __Redis__, __Amazon Web Services__, __Docker__, and more. A full list of accomplishments is below:
