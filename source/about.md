@@ -29,9 +29,10 @@ I'm also very excited to take __Enterprise Defense__ with [Nolen Scaife](http://
 
 ## Work Experience
 
+<div id='tumblr'></div>
 ### Tumblr
 
-This summer (2015), I will be the __Security Engineering Intern at [Tumblr](https://tumblr.com)__.
+I'm currently the __Security Engineering Intern at [Tumblr](https://tumblr.com)__.
 
 <div id='blockscore'></div>
 ### BlockScore
