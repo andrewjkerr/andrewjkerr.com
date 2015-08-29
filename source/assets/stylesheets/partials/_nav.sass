@@ -1,23 +1,31 @@
 @import 'base/variables'
 
 nav
-  border-bottom: 1px solid $base-border-color
-  margin: em(30) 0
+  padding: em(30) 0
 
-  ul
-    display: inline-block
-    margin-bottom: em(10)
+  .nav
+    display: block
+    margin: 0 auto
+    width: $max-page-width
+    border-bottom: 1px solid $base-border-color
 
-  .float-right
-    float: right
-    margin-top: em(7)
+    ul
+      display: inline-block
+      float: right
 
-.blog-title
-  font-size: 1.4em
-  font-weight: 700
-  letter-spacing: 4px
-  text-transform: uppercase
+      li
+        display: inline-block
 
-.nav-item
-  margin-left: em(15)
-  text-transform: uppercase
+    .float-right
+      float: right
+      margin-top: em(7)
+
+  .blog-title
+    font-size: 1.4em
+    font-weight: 700
+    letter-spacing: 4px
+    text-transform: uppercase
+
+  .nav-item
+    margin-left: em(15)
+    text-transform: uppercase

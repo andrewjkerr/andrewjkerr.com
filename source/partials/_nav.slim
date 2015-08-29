@@ -1,9 +1,13 @@
 nav
-  = link_to config[:site_title], "/", class: 'blog-title'
+    .nav
+        = link_to config[:site_title], "/", class: 'blog-title'
 
-  ul.float-right.no-bullets
-    li
-      = link_to "Home", "/", class: 'nav-item'
-      = link_to "About", "/about.html", class: 'nav-item'
-      = link_to "Blog", "/blog.html", class: 'nav-item'
-      = link_to_doc "Resume", "resume.pdf", class: 'nav-item'
+        ul.float-right.no-bullets
+            li
+                = link_to "Home", "/", class: 'nav-item'
+            li
+                = link_to "About", "/about.html", class: 'nav-item'
+            li
+                = link_to "Blog", "/blog.html", class: 'nav-item'
+            li
+                = link_to_doc "Resume", "resume.pdf", class: 'nav-item'

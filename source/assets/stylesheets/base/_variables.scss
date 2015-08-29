@@ -24,10 +24,12 @@ $base-border-radius: 3px;
 $base-spacing: $base-line-height * 1em;
 $small-spacing: $base-spacing / 2;
 $base-z-index: 0;
+$max-page-width: em(700);
 
 // Colors
 $red: #aa001e;
 $blue: #477dca;
+$white: #fff;
 $dark-gray: #333;
 $medium-gray: #999;
 $light-gray: #eee;
