@@ -6,6 +6,8 @@ tags:   tumblelogs, blogging
 
 It's been awhile since I've written here, but I've got a few side blogs that I should mention (and, you can follow!).
 
+READMORE
+
 ## [Andrew's Reading List](http://books.andrewjkerr.com)
 
 A few months ago, I decided to start a Tumblelog that chronicles all of the books that I read (or, listen to). I don't get to read as much as I want to, but having a public log of books that I finish is a good motivator to read more. You can follow that at: [books.andrewjkerr.com](http://books.andrewjkerr.com).
