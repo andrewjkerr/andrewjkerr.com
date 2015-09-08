@@ -3,7 +3,7 @@ title:  "Resume Critiques"
 date:   2014-09-24 17:00:00
 tags:   resumes
 ---
-Over the years, I've had a lot of help with my [resume](http://andrewjkerr.github.io/resume.pdf) and I've always appreciated the people who took the time to look over it. They have always given me good feedback which have helped me up my resume game and have an awesome resume.
+Over the years, I've had a lot of help with my [resume](/resume.pdf) and I've always appreciated the people who took the time to look over it. They have always given me good feedback which have helped me up my resume game and have an awesome resume.
 
 <style>
 ul, ol {
