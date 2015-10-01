@@ -132,4 +132,33 @@ helpers do
   def link_to_doc(text, filename, options = {})
     link_to text, "/#{docs_dir}/#{filename}", options
   end
+
+  def latest_repository
+    latest_repo = fetch_github_repos.first
+    format_github_repo_link(latest_repo, class: 'latest-repository')
+  end
+
+  def format_post_link(post)
+    link_to "#{post.title} (#{post.date.strftime('%b %e')})", post
+  end
+
+  # Returns an array of repos!
+  def fetch_github_repos
+    response = HTTParty.get('https://api.github.com/users/andrewjkerr/repos?sort=updated')
+    json_obj = JSON.parse(response.body)
+  end
+
+  # Repo is a JSON object!
+  def format_github_repo_link(repo, options)
+    name = repo['name']
+    link = repo['html_url']
+    updated_at = repo['updated_at']
+    begin
+      updated_at_date_obj = Date.parse(updated_at)
+      updated_at_str = " (#{updated_at_date_obj.strftime('%b %e')})"
+    rescue
+      updated_at_str = ""
+    end
+    link_to "#{name}#{updated_at_str}", link, options
+  end
 end

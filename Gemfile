@@ -28,6 +28,8 @@ gem 'redcarpet', '~> 3.2.2'
 # Nokogiri for blog summaries
 gem 'nokogiri', '~> 1.6.6.2'
 
+gem 'httparty', '~> 0.13.5'
+
 group :development do
   gem "middleman-livereload", "~> 3.1.1"
 end

@@ -1,4 +1,5 @@
 ---
+pageable: false
 name: Home
 header: Hello, World.
 ---
@@ -13,5 +14,15 @@ p
   = link_to 'interesting books', 'reading.html'
   | , and good coffee.
 
+p
+    | My most recent blog post is 
+    = format_post_link(page_articles.first)
+    |  and the project I worked on last is 
+    = latest_repository
+    | .
+
+p.latest-repository-1
+
 markdown:
   Get in touch - [@andrewuf](https://twitter.com/andrewuf) or [me@andrewjkerr.com](mailto:me@andrewjkerr.com).
+
