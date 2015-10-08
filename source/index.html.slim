@@ -17,9 +17,11 @@ p
 p
     | My most recent blog post is 
     = format_post_link(page_articles.first)
-    |  and the project I worked on last is 
+    | , the project I worked on last is 
     = latest_repository
-    | .
+    | , and I am currently reading 
+    = link_to 'The Survivor', 'http://www.amazon.com/Survivor-Mitch-Rapp-Novel/dp/1476783454/)'
+    |  by Vince Flynn.
 
 markdown:
   Get in touch - [@andrewuf](https://twitter.com/andrewuf) or [me@andrewjkerr.com](mailto:me@andrewjkerr.com).
