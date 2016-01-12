@@ -12,7 +12,7 @@ _Note: This is a bit long and contains pretty much everything I've been up to fo
 
 ## Availability
 
-I am currently unavailable for hire until __August 2015__. Come that time, I'll be looking for a full time job to start in __June 2016__.
+I am currently looking for a full-time opportunity to start in June of 2016.
 
 ## Education
 
@@ -24,10 +24,14 @@ I'm currently a __fifth year senior at the [University of Florida](https://ufl.e
 - __Digital Logic__ with [Dr. Gugel](https://www.ece.ufl.edu/users/gugel-karl)
 - __Applications of Microprocessors__ with [Dr. Gugel](https://www.ece.ufl.edu/users/gugel-karl)
 - __Digital Design__ with [Dr. Stitt](http://www.gstitt.ece.ufl.edu/)
-
-I'm also very excited to take __Enterprise Defense__ with [Nolen Scaife](http://nolen.io/) and __User Experience Design__ with [Dr. Anthony](http://lisa-anthony.com/) in the fall of 2015 (along with a few other classes I need to finish my degree).
+- __Enterprise Defense__ with [Nolen Scaife](https://nolen.io)
 
 ## Work Experience
+
+<div id='quottly'></div>
+### Quottly
+
+I am currently the __Lead Web Engineer at [Quottly](https://quottly.com)__.
 
 <div id='tumblr'></div>
 ### Tumblr
