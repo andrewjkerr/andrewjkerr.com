@@ -11,16 +11,18 @@ body {
   background-color: #FAF9FA;
 
   /* Positioning */
-  max-width: 500;
+  max-width: 600px;
   display: block;
   margin: 0 auto;
   margin-top: 30px;
+  padding: 0 50px;
 }
 
 a {
   font-weight: bold;
   text-decoration: none;
   color: #4A90E2;
+  cursor: pointer;
 }
 
 b {
@@ -44,10 +46,11 @@ h3 {
   font-size: 24px;
 }
 
-/* Hero CSS */
-.hero {
+hr {
+  background-color: #4A4A4A;
 }
 
+/* Hero CSS */
 .hero .image {
   /* Size & Position */
   height: 150px;
@@ -71,6 +74,16 @@ h3 {
 
 .hero .description {
   margin-top: 0px;
+}
+
+/* Social CSS */
+.social {
+  font-size: 150%;
+  text-align: center;
+}
+
+.social i {
+  padding: 5px 10px;
 }
 
 /* Section CSS */
